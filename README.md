@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center" style="color:#1E3A8A;">✨ Welcome to My GitHub! ✨</h2>
+<h2 align="center" style="color:#1E3A8A;">✨ Yoon A ✨</h2>
 
 <p align="center">
   <samp>
