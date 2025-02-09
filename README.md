@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-<h2 align="center" style="color:#1E3A8A;">✨ Yoona Kim ✨</h2>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
+</p>
 
-
-## 🧐 About me
-✔️ 🎓 Full stack development research focused on spring and database management
-✔️ 💡 I like to learn about history, psychology, and problem solving
-✔️ 📖 Continuously explore new technology technology and better coding practices 
-
----
+<p align='center'>
+  <a href="https://github.com/nthcan/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=#fffacd"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="https://capsule-render.vercel.app/">
+    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
 ## 📚 Tech Stack  
 
@@ -38,7 +44,6 @@
   </table>
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats  
@@ -47,4 +52,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthcan&theme=navy" width="49%">
 </div>
 
+---
+
+### 📫 Contact Me:
+- 📧 [Email](mailto:nthcan@gmail.com)
 
