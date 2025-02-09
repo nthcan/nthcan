@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-<h2 align="center" style="color:#1E3A8A;">✨ Yoon A ✨</h2>
+<h2 align="center" style="color:#1E3A8A;">✨ Yoona Kim ✨</h2>
 
 
-## 🧐 About Me  
-✔️ 🎓 Studying **Backend Development** with a focus on **Spring & Database Management**  
-✔️ 💡 Love learning about **History, Psychology, and Problem-Solving**  
-✔️ ☕ Enjoy coding while sipping coffee and planning new projects  
-✔️ 📖 Constantly exploring new **technologies & better coding practices**  
+## 🧐 About me
+✔️ 🎓 Full stack development research focused on spring and database management
+✔️ 💡 I like to learn about history, psychology, and problem solving
+✔️ 📖 Continuously explore new technology technology and better coding practices 
 
 ---
 
