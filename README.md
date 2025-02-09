@@ -16,7 +16,6 @@
   </a>
 </p>
 
-## 📚 Tech Stack  
 
 <div align="center">
   <table>
@@ -53,7 +52,4 @@
 </div>
 
 ---
-
-### 📫 Contact Me:
-- 📧 [Email](mailto:nthcan@gmail.com)
 
