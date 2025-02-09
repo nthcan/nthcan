@@ -2,14 +2,6 @@
 
 <h2 align="center" style="color:#1E3A8A;">✨ Yoon A ✨</h2>
 
-<p align="center">
-  <samp>
-    Passionate about **Backend Development** & **Creating Scalable Solutions** 💻  
-    Always striving to improve and grow 🚀  
-  </samp>
-</p>
-
----
 
 ## 🧐 About Me  
 ✔️ 🎓 Studying **Backend Development** with a focus on **Spring & Database Management**  
